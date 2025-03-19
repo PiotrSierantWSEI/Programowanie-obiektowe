@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj": {}
+    "C:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj": {}
   },
   "projects": {
-    "c:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj": {
+    "C:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj",
+        "projectUniqueName": "C:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj",
         "projectName": "Lab-01",
-        "projectPath": "c:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj",
+        "projectPath": "C:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\Lab-01.csproj",
         "packagesPath": "C:\\Users\\piotr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\obj\\",
+        "outputPath": "C:\\Users\\piotr\\Desktop\\Programowanie-obiektowe\\Lab-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\piotr\\AppData\\Roaming\\NuGet\\NuGet.Config"
