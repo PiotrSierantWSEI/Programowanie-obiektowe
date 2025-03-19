@@ -138,3 +138,5 @@ namespace LAB7_1
         }
     }
 }
+
+// init
