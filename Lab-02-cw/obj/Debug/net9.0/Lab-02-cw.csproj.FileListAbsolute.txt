@@ -1,0 +1,15 @@
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\bin\Debug\net9.0\Lab-02-cw.exe
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\bin\Debug\net9.0\Lab-02-cw.deps.json
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\bin\Debug\net9.0\Lab-02-cw.runtimeconfig.json
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\bin\Debug\net9.0\Lab-02-cw.dll
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\bin\Debug\net9.0\Lab-02-cw.pdb
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.AssemblyInfoInputs.cache
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.AssemblyInfo.cs
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.sourcelink.json
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.dll
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\refint\Lab-02-cw.dll
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.pdb
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\Lab-02-cw.genruntimeconfig.cache
+C:\Users\piotr\Desktop\Programowanie-obiektowe\Lab-02-cw\obj\Debug\net9.0\ref\Lab-02-cw.dll
